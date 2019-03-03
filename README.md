@@ -1,13 +1,13 @@
 Codeception ActiveCampaign
 ==========
 
-A ActiveCampaign email marketing module for Codeception.
+An ActiveCampaign email marketing module for Codeception.
 
 ## Installation
 You need to add the repository into your composer.json file
 
 ```bash
-    composer require --dev polevaultweb/codeception-activecampaign
+composer require --dev polevaultweb/codeception-activecampaign
 ```
 
 ## Usage
@@ -33,9 +33,9 @@ modules:
  
 Update Codeception build
   
-  ```bash
-  codecept build
-  ```
+```bash
+codecept build
+ ```
   
 ### Supports
 
