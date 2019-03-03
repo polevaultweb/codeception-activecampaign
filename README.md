@@ -48,6 +48,8 @@ And assertions
 * seeTagsForSubscriber
 * cantSeeTagsForSubscriber
 * seeCampaignsForSubscriber
+* cantSeeCampaignsForSubscriber
+* waitForSubscriberToNotHaveTags
 
 ### Usage
 
